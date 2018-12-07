@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Michael
+Class-Path: log4j-api-2.11.1.jar log4j-core-2.11.1.jar log4j-slf4j-imp
+ l-2.11.1.jar slf4j-api-1.7.25.jar mongo-java-driver-3.9.1.jar
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+
